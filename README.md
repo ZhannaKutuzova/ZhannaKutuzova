@@ -1,53 +1,63 @@
 # Hi, I'm Zhanna 👋
 
-Co-Founder & Engineer at CodeZavod  
-Software Engineer (Cloud & Backend)  
-AWS • Terraform • ECS • Lambda • Node.js • TypeScript • AI Integrations
+## Co-Founder & Software Engineer at CodeZavod
+Platform Engineering • Backend • AI Systems • Cloud Infrastructure
 
-I design and build production-grade cloud infrastructure and AI-powered backend systems — from architecture to deployment.
-
----
-
-## ⚙️ What I Work With
-
-🔹 **Cloud Infrastructure**  
-AWS (VPC, ECS, Lambda, RDS), infrastructure as code with Terraform  
-
-🔹 **Backend Engineering**  
-Node.js & TypeScript services, authentication flows, APIs, automation systems  
-
-🔹 **DevOps & CI/CD**  
-GitHub Actions pipelines, Docker environments, preview deployments  
-
-🔹 **AI Integrations**  
-LLM orchestration (Claude, OpenAI), multi-agent workflows, automation pipelines  
-
-🔹 **Production Operations**  
-Monitoring, scaling, cost optimization, system stability  
+I build production-ready software platforms — from backend architecture and cloud infrastructure to deployment pipelines and AI-powered automation.
 
 ---
 
-## 🚀 CodeZavod
+## What I Build
 
-CodeZavod is an AI-powered platform that generates production-ready web applications using a multi-agent LLM architecture.
+I work across the full engineering lifecycle:
 
-My role focuses on:
-
-• Designing cloud infrastructure architecture  
-• Building backend systems and automation  
-• Implementing CI/CD and deployment pipelines  
-• Managing production reliability and scaling  
-
----
-
-### 💡 Engineering mindset
-
-I care about:
-- clean architecture  
-- reproducible infrastructure  
-- automation over manual work  
-- systems that scale without drama  
+- **Platform Engineering** — internal tools, reusable architecture, automation-first systems
+- **Backend Systems** — APIs, auth flows, business logic, integrations
+- **Cloud Infrastructure** — AWS environments, Terraform, networking, deployment foundations
+- **DevOps & CI/CD** — GitHub Actions, Docker workflows, preview environments, release pipelines
+- **AI Integrations** — LLM workflows, multi-agent orchestration, automation pipelines
+- **Production Operations** — monitoring, stability, scaling, cost optimization
 
 ---
 
-Always building. Always optimizing.
+## Tech Stack
+
+**Languages & Backend**  
+TypeScript, Node.js, Python, REST APIs, OAuth, automation services
+
+**Cloud & Infrastructure**  
+AWS (VPC, ECS, Lambda, RDS, S3), Terraform, Docker, Nginx
+
+**Delivery & Operations**  
+GitHub Actions, CI/CD, preview deployments, monitoring, debugging, production support
+
+**AI & Automation**  
+Claude, OpenAI, LLM integrations, multi-agent workflows, AI-assisted product pipelines
+
+---
+
+## CodeZavod
+
+**CodeZavod** is an AI-powered platform for generating production-ready web applications using a multi-agent LLM architecture.
+
+At CodeZavod, my role includes:
+
+- Designing and improving platform architecture
+- Building backend systems and automation workflows
+- Implementing deployment pipelines and CI/CD
+- Managing cloud infrastructure and reliability
+- Supporting production scaling and operational stability
+
+---
+
+## Engineering Focus
+
+I care about building systems that are:
+
+- reliable in production
+- easy to deploy and maintain
+- automated by default
+- scalable without chaos
+
+Always building. Always improving.
+
