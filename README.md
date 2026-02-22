@@ -1,8 +1,8 @@
 # Hi, I'm Zhanna 👋
 
-**Co-Founder & Engineer at CodeZavod**  
-Cloud & Backend Engineer  
-AWS • Terraform • ECS • Lambda • Node.js • TypeScript • AI Integrations  
+Co-Founder & Engineer at CodeZavod  
+Software Engineer (Cloud & Backend)  
+AWS • Terraform • ECS • Lambda • Node.js • TypeScript • AI Integrations
 
 I design and build production-grade cloud infrastructure and AI-powered backend systems — from architecture to deployment.
 
