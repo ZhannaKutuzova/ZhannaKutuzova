@@ -1,63 +1,44 @@
-# Hi, I'm Zhanna 👋
-
-## Co-Founder & Software Engineer at CodeZavod
-Platform Engineering • Backend • AI Systems • Cloud Infrastructure
-
-I build production-ready software platforms — from backend architecture and cloud infrastructure to deployment pipelines and AI-powered automation.
-
----
-
-## What I Build
-
-I work across the full engineering lifecycle:
-
-- **Platform Engineering** — internal tools, reusable architecture, automation-first systems
-- **Backend Systems** — APIs, auth flows, business logic, integrations
-- **Cloud Infrastructure** — AWS environments, Terraform, networking, deployment foundations
-- **DevOps & CI/CD** — GitHub Actions, Docker workflows, preview environments, release pipelines
-- **AI Integrations** — LLM workflows, multi-agent orchestration, automation pipelines
-- **Production Operations** — monitoring, stability, scaling, cost optimization
-
----
-
-## Tech Stack
-
-**Languages & Backend**  
-TypeScript, Node.js, Python, REST APIs, OAuth, automation services
-
-**Cloud & Infrastructure**  
-AWS (VPC, ECS, Lambda, RDS, S3), Terraform, Docker, Nginx
-
-**Delivery & Operations**  
-GitHub Actions, CI/CD, preview deployments, monitoring, debugging, production support
-
-**AI & Automation**  
-Claude, OpenAI, LLM integrations, multi-agent workflows, AI-assisted product pipelines
-
----
-
-## CodeZavod
-
-**CodeZavod** is an AI-powered platform for generating production-ready web applications using a multi-agent LLM architecture.
-
-At CodeZavod, my role includes:
-
-- Designing and improving platform architecture
-- Building backend systems and automation workflows
-- Implementing deployment pipelines and CI/CD
-- Managing cloud infrastructure and reliability
-- Supporting production scaling and operational stability
-
----
-
-## Engineering Focus
-
-I care about building systems that are:
-
-- reliable in production
-- easy to deploy and maintain
-- automated by default
-- scalable without chaos
-
-Always building. Always improving.
-
+Hi, I'm Zhanna 👋
+Software Engineer | Backend & Platform Systems | AI Integrations
+I build production-ready backend platforms, cloud infrastructure, and AI-powered systems.
+Focused on architecture, automation, reliability, and scalable deployment.
+What I Do
+I work across the full engineering lifecycle — from system design to production operations.
+Backend Engineering — APIs, auth flows, business logic, integrations
+Platform Architecture — modular systems, reusable services, scalable foundations
+Cloud Infrastructure — AWS environments, containerized services, infrastructure as code
+DevOps & CI/CD — automated pipelines, preview deployments, production releases
+AI Integrations — LLM workflows, multi-agent orchestration, automation systems
+Production Reliability — monitoring, stability, cost optimization, performance tuning
+Selected Work
+Anunnak (formerly CodeZavod)
+AI-driven platform for generating full-stack web applications.
+Engineering responsibilities:
+Designed backend architecture and service structure
+Built API layer and authentication flows
+Implemented CI/CD pipelines and automated deployments
+Managed AWS infrastructure and containerized services
+Integrated LLM-based automation workflows
+Supported production stability and scaling
+GoFinder
+Search & automation tool focused on structured data workflows.
+Built backend service architecture
+Implemented API integrations
+Designed modular logic for scalable expansion
+Optimized performance and response handling
+Tech Stack
+Languages & Backend
+TypeScript, Node.js, Python, REST APIs, OAuth, service architecture
+Cloud & Infrastructure
+AWS (VPC, ECS, Lambda, RDS, S3), Docker, Terraform, Nginx
+DevOps & Delivery
+GitHub Actions, CI/CD pipelines, container orchestration, deployment automation
+AI & Automation
+Claude, OpenAI APIs, structured prompt pipelines, multi-agent orchestration systems
+Engineering Principles
+I focus on systems that are:
+production-ready
+automation-first
+modular and maintainable
+scalable without operational chaos
+Always improving architecture. Always reducing friction.
