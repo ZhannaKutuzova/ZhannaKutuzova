@@ -10,7 +10,7 @@ Building REST APIs, implementing authentication systems (OAuth/JWT), and develop
 AI Integrations
 Working with LLM APIs such as OpenAI and Claude to build automation tools, AI-powered features, and multi-step workflows.
 Cloud & Deployment
-Working with containerized services (Docker), basic AWS infrastructure, and supporting deployment pipelines and production stability.
+Working with containerized services (Docker), AWS infrastructure, and supporting deployment pipelines and production stability.
 
 🚀 Selected Experience — Anunnak
 Contributing to an AI-driven platform that generates full-stack web applications.
@@ -22,4 +22,4 @@ Contributing to an AI-driven platform that generates full-stack web applications
 🛠 Tech Stack
 Languages: TypeScript, Node.js, Python
 Backend: REST APIs, OAuth, JWT
-Cloud & Tools: AWS (EC2, S3), Docker, GitHub Actions
+Cloud & Tools: AWS (EC2, S3 , VPC), Docker, GitHub Actions
