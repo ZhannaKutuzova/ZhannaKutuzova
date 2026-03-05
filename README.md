@@ -1,44 +1,20 @@
-Hi, I'm Zhanna 👋
-Software Engineer · Backend & Platform Systems · AI Integrations
-I build production-ready backend systems, cloud infrastructure, and AI-driven automation tools.
-Focused on clean architecture, reliability, and scalable deployment.
 
+Hi, I'm Zhanna 👋
+Software Engineer focused on backend development, API integrations, and building reliable web applications. I enjoy working on backend services, automation workflows, and integrating modern AI tools into real products. I care about clean code, practical solutions, and systems that work reliably in production.
 ⚙️ What I Work On
 Backend Engineering
-APIs, authentication, integrations, business logic
-Platform Architecture
-Modular services, reusable components, scalable foundations
-Cloud Infrastructure
-AWS environments, containerized services, infrastructure as code
-DevOps & CI/CD
-Automated pipelines, preview environments, production releases
+Building REST APIs, implementing authentication systems (OAuth/JWT), and developing backend services that support real application workflows.
 AI Integrations
-LLM workflows, multi-agent systems, automation pipelines
-
-🚀 Selected Project
-Anunnak (formerly CodeZavod)
-AI-driven platform for generating full-stack applications.
-Engineering responsibilities:
-Designed backend architecture and service structure
-Built API layer and authentication flows
-Implemented CI/CD pipelines and automated deployments
-Managed AWS infrastructure and containerized services
-Integrated LLM-based automation workflows
-Supported production stability and scaling
-
-🧩 Tech Stack
-Languages
-TypeScript · Node.js · Python
-Backend & APIs
-REST · OAuth · Service Architecture
-Cloud & Infra
-AWS (VPC, ECS, Lambda, RDS, S3) · Docker · Terraform · Nginx
-DevOps
-GitHub Actions · CI/CD · Deployment Automation
-AI
-Claude · OpenAI APIs · Structured prompt systems
-🛠 Engineering Focus
-Production reliability
-Automation-first systems
-Maintainable architecture
-Scalable infrastructure
+Working with LLM APIs such as OpenAI and Claude to build automation tools, AI-powered features, and multi-step workflows.
+Cloud & Deployment
+Working with containerized services (Docker), basic AWS infrastructure, and supporting deployment pipelines and production stability.
+🚀 Selected Experience — Anunnak
+Contributing to an AI-driven platform that generates full-stack web applications.
+• Built backend services and API layers using Node.js and TypeScript
+• Integrated LLM-powered automation workflows
+• Worked with containerized environments and CI/CD pipelines
+• Supported deployments and monitoring of production services
+🛠 Tech Stack
+Languages: TypeScript, Node.js, Python
+Backend: REST APIs, OAuth, JWT
+Cloud & Tools: AWS (EC2, S3), Docker, GitHub Actions
